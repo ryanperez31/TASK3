@@ -25,7 +25,7 @@
 
 ; enable keyboard interrupts
 	
-	AND R1, R1, #0                 ;clear registers
+	AND R1, R1, #0                 ; how bout we clear these registers
 	AND R2, R2, #0
 
 
