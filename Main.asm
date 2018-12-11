@@ -1,5 +1,5 @@
 ; Main.asm
-; Name:
+; Name: Trajan Schmidt, Ryan Perez
 ; UTEid: 
 ; Continuously reads from x4600 making sure its not reading duplicate
 ; symbols. Processes the symbol based on the program description
