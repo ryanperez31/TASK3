@@ -1,6 +1,6 @@
 ; ISR.asm
-; Name: Trajan Schmidt
-; UTEid: tms3893 
+; Name: Trajan Schmidt and Ryan Perez
+; UTEid: tms3893 and rep2533 
 ; Keyboard ISR runs when a key is struck
 ; Checks for a valid RNA symbol and places it at x4600
                .ORIG x2600
