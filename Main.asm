@@ -9,7 +9,7 @@
 
 ; initialize the stack pointer
 
-	LD R6, FourK
+	LD R6, fourthousand
 
 
 
@@ -225,7 +225,7 @@ TWOKSIX        .FILL x2600
 ONEEIGHT       .FILL x0180
 ENABLE         .FILL x4000
 character .FILL  x4600
-FourK .FILL x4000
+fourthousand .FILL x4000
 storechar  .BLKW 1
 letterA .FILL x0041
 letterU .FILL x0055
