@@ -1,6 +1,6 @@
 ; Main.asm
 ; Name: Trajan Schmidt, Ryan Perez
-; UTEid: 
+; UTEid: tms3893, rep2533 
 ; Continuously reads from x4600 making sure its not reading duplicate
 ; symbols. Processes the symbol based on the program description
 ; of mRNA processing.
